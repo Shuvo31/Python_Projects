@@ -1,0 +1,8 @@
+import pywhatkit
+pywhatkit.text_to_handwritting(""" TypeScript is an advanced programming language. It is based on JavaScript primarily. TS is an Object-Oriented Programming Language. Along with its development in 2012, Microsoft is still responsible for maintaining it.
+
+If you lend up on this page, I assume that you have some previous knowledge of programming. I am not expecting you to directly build a web application or something. The only thing I am expecting from you is you know where to write your code exactly. No doubt you will better understand this if you have some basic working knowledge of JavaScript.ypeScript is an advanced programming language. It is based on JavaScript primarily. TS is an Object-Oriented Programming Language. Along with its development in 2012, Microsoft is still responsible for maintaining it.
+
+If you lend up on this page, I assume that you have some previous knowledge of programming. I am not expecting you to directly build a web application or something. The only thing I am expecting from you is you know where to write your code exactly. No doubt you will better understand this if you have some basic working knowledge of JavaScript.ypeScript is an advanced programming language. It is based on JavaScript primarily. TS is an Object-Oriented Programming Language. Along with its development in 2012, Microsoft is still responsible for maintaining it.
+
+If you lend up on this page, I assume that you have some previous knowledge of programming. I am not expecting you to directly build a web application or something. The only thing I am expecting from you is you know where to write your code exactly. No doubt you will better understand this if you have some basic working knowledge of JavaScript.""",rgb=(0,0,25))
